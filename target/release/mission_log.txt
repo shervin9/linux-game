@@ -1,0 +1,7 @@
+Script started on 2025-01-07 18:35:49+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="235" LINES="61"]
+[?2004hroot@srv5692238634:~/linux-game/target/release# pwd
+[?2004l/root/linux-game/target/release
+[?2004hroot@srv5692238634:~/linux-game/target/release# exit
+[?2004lexit
+
+Script done on 2025-01-07 18:35:57+00:00 [COMMAND_EXIT_CODE="0"]
